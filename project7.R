@@ -1,8 +1,6 @@
 # Project 7 – Data Types and Data Import
 # Course: R Programming
-# Student Name: ______________________
-# GitHub Classroom: Fill in this file and push your commits.
-#
+
 # INSTRUCTIONS
 # • Work in this script (project7.R). Do NOT rename the file.
 # • Data files are provided in ./data-raw/: cat-lovers.csv, nobel.csv, sales.xlsx
